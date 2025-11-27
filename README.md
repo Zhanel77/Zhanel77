@@ -45,45 +45,34 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhanel77&area=true&hide_border=true&bg_color=ffffff&line=14B8A6&point=4F46E5&color=4F46E5&custom_title=Contribution%20Graph" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zhanel77&style=flat-square&color=4F46E5" />
-  <img src="https://img.shields.io/github/followers/Zhanel77?style=social" />
-</p>
-
 ---
 
 ## ⭐ Featured Projects
 
 <p align="center">
   <a href="https://github.com/Zhanel77/landing-m1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m1&theme=solarized-light&hide_border=true" />
   </a>
   <a href="https://github.com/Zhanel77/landing-m2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m2&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m2&theme=solarized-light&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Zhanel77/landing-m3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m3&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m3&theme=solarized-light&hide_border=true" />
   </a>
   <a href="https://github.com/Zhanel77/piano-player">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=piano-player&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=piano-player&theme=solarized-light&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Zhanel77/task-planner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=task-planner&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=task-planner&theme=solarized-light&hide_border=true" />
   </a>
   <a href="https://github.com/Zhanel77/AR-Focus-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=AR-Focus-App&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Zhanel77/Telegramm-bot-with-ollama">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=Telegramm-bot-with-ollama&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=AR-Focus-App&theme=solarized-light&hide_border=true" />
   </a>
 </p>
 
