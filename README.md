@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=180&section=header&text=Zhanel%20Kuandyk&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">Frontend Developer</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7C3AED&size=24&center=true&vCenter=true&width=1000&lines=Frontend+Developer;Student+at+Astana+IT+University;Alem+School+Student;Loves+web+development)](https://git.io/typing-svg)
 
 <br/>
 
