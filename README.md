@@ -1,44 +1,103 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E72FC,100:A1C4FD&height=180&section=header&text=Zhanel%20Kuandyk&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=180&section=header&text=Zhanel%20Kuandyk&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=3B82F6&size=24&center=true&vCenter=true&width=1000&lines=Frontend+Developer;Student+at+Astana+IT+University;Alem+School+Student;Loves+web+development)](https://git.io/typing-svg)
+<h2 align="center">Frontend Developer</h2>
+
+<br/>
+
+---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,git,github,nodejs,figma" />
 </p>
 
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+### 📦 GitHub Stats
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zhanel77&theme=tokyonight&hide_border=true" />
+
+</td>
+<td>
+
+### 📘 Most Used Languages
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zhanel77&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zhanel77&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zhanel77&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhanel77&area=true&hide_border=true&bg_color=ffffff&line=7C3AED&point=4F46E5&color=4F46E5&custom_title=Contribution%20Graph" />
 </p>
 
-## 🥞 Statistics
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zhanel77&style=flat-square&color=4F46E5" />
+  <img src="https://img.shields.io/github/followers/Zhanel77?style=social" />
+</p>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zhanel77&custom_title=Contribution%20Graph&hide_border=true)
+---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Zhanel77&color=blueviolet)
-![GitHub Followers](https://img.shields.io/github/followers/Zhanel77?style=social)
+## ⭐ Featured Projects
 
+### 🔥 [landing-m1](https://github.com/Zhanel77/landing-m1)  
+Adaptive landing page with a modern responsive UI.
+
+### 🔥 [landing-m2](https://github.com/Zhanel77/landing-m2)  
+Clean, smooth, responsive landing page with a stylish layout.
+
+### 🔥 [landing-m3](https://github.com/Zhanel77/landing-m3)  
+Advanced multi-section landing with transitions and animations.
+
+### 🎹 [piano-player](https://github.com/Zhanel77/piano-player)  
+Interactive piano app — play sounds with keyboard or mouse.
+
+### 📋 [task-planner](https://github.com/Zhanel77/task-planner)  
+Full-featured browser task planner with filters, drag-and-drop, and localStorage.
+
+### 📱 [AR-Focus-App](https://github.com/Zhanel77/AR-Focus-App)  
+AR-based focus timer app built with immersive UI elements.
+
+### 🤖 [Telegramm-bot-with-ollama](https://github.com/Zhanel77/Telegramm-bot-with-ollama)  
+Telegram bot powered by Ollama for intelligent responses and automation.
+
+### 🎨 Portfolio Website  
+Personal website showcasing my work and skillset.
+
+### 🧠 JS Playground  
+My collection of small frontend practice projects.
+
+---
+
+## 📬 Contact Me
 
 <p align="center">
-  <a href="https://instagram.com/zhanxku">
+  <a href="https://instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://t.me/zhanelka7">
+  <a href="https://t.me/" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
 
+---
 
-## ⭐ Featured Projects
-
-- 🔥 [landing-m1](https://github.com/Zhanel77/landing-m1) — adaptive landing page  
-- 🎨 Portfolio Website — personal website  
-- 📱 JS Playground — my frontend practice projects  
-
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=120&section=footer" />
+</p>
