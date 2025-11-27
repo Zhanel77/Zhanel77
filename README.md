@@ -54,32 +54,37 @@
 
 ## ⭐ Featured Projects
 
+<table>
+<tr>
+<td>
+
 ### 🔥 [landing-m1](https://github.com/Zhanel77/landing-m1)  
-Adaptive landing page with a modern responsive UI.
+Adaptive landing page.
 
 ### 🔥 [landing-m2](https://github.com/Zhanel77/landing-m2)  
-Clean, smooth, responsive landing page with a stylish layout.
+Smooth modern layout.
 
 ### 🔥 [landing-m3](https://github.com/Zhanel77/landing-m3)  
-Advanced multi-section landing with transitions and animations.
+Multi-section landing.
+
+</td>
+<td>
 
 ### 🎹 [piano-player](https://github.com/Zhanel77/piano-player)  
-Interactive piano app — play sounds with keyboard or mouse.
+Interactive piano app.
 
 ### 📋 [task-planner](https://github.com/Zhanel77/task-planner)  
-Full-featured browser task planner with filters, drag-and-drop, and localStorage.
+Full-featured task manager.
 
 ### 📱 [AR-Focus-App](https://github.com/Zhanel77/AR-Focus-App)  
-AR-based focus timer app built with immersive UI elements.
+AR focus timer.
 
-### 🤖 [Telegramm-bot-with-ollama](https://github.com/Zhanel77/Telegramm-bot-with-ollama)  
-Telegram bot powered by Ollama for intelligent responses and automation.
+### 🤖 [Telegram-bot-ollama](https://github.com/Zhanel77/Telegramm-bot-with-ollama)  
+AI Telegram bot.
 
-### 🎨 Portfolio Website  
-Personal website showcasing my work and skillset.
-
-### 🧠 JS Playground  
-My collection of small frontend practice projects.
+</td>
+</tr>
+</table>
 
 ---
 
