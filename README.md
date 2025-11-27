@@ -1,13 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=180&section=header&text=Zhanel%20Kuandyk&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=header&text=Zhanel%20Kuandyk&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7C3AED&size=24&center=true&vCenter=true&width=1000&lines=Frontend+Developer;Student+at+Astana+IT+University;Alem+School+Student;Loves+web+development)](https://git.io/typing-svg)
-
 <br/>
 
 ---
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -97,7 +94,7 @@ My collection of small frontend practice projects.
 </p>
 
 ---
-![snake gif](https://raw.githubusercontent.com/Zhanel77/snk/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Zhanel77/snk/output/github-contribution-grid-snake-ocean.svg)
 ---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=120&section=footer" />
