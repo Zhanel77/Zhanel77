@@ -1,4 +1,3 @@
-## Hello, I'm Zhanel 💻💅🏻
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E72FC,100:A1C4FD&height=180&section=header&text=Zhanel%20Kuandyk&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
@@ -24,18 +23,15 @@
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zhanel77&custom_title=Contribution%20Graph&hide_border=true)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zhanel77&custom_title=Contribution%20Graph&hide_border=true&theme=react-dark)
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Zhanel77&color=blueviolet)
 ![GitHub Followers](https://img.shields.io/github/followers/Zhanel77?style=social)
 
 
 <p align="center">
-  <a href="https://instagram.com/yourprofile">
+  <a href="https://instagram.com/zhanxku">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://t.me/yourtelegram">
+  <a href="https://t.me/zhanelka7">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
