@@ -42,7 +42,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhanel77&area=true&hide_border=true&bg_color=ffffff&line=1F2937&point=4F46E5&color=4F46E5&custom_title=Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhanel77&area=true&hide_border=true&bg_color=ffffff&line=14B8A6&point=4F46E5&color=4F46E5&custom_title=Contribution%20Graph" />
 </p>
 
 <p align="center">
@@ -55,17 +55,37 @@
 ## ⭐ Featured Projects
 
 <p align="center">
-
-🔹 [landing-m1](https://github.com/Zhanel77/landing-m1) — adaptive landing  
-🔹 [landing-m2](https://github.com/Zhanel77/landing-m2) — modern layout  
-🔹 [landing-m3](https://github.com/Zhanel77/landing-m3) — animated landing  
-🔹 [piano-player](https://github.com/Zhanel77/piano-player) — piano app  
-🔹 [task-planner](https://github.com/Zhanel77/task-planner) — task manager  
-🔹 [AR-Focus-App](https://github.com/Zhanel77/AR-Focus-App) — AR focus tool  
-🔹 [Telegram-Ollama Bot](https://github.com/Zhanel77/Telegramm-bot-with-ollama) — AI bot  
-
+  <a href="https://github.com/Zhanel77/landing-m1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Zhanel77/landing-m2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m2&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Zhanel77/landing-m3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m3&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Zhanel77/piano-player">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=piano-player&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zhanel77/task-planner">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=task-planner&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Zhanel77/AR-Focus-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=AR-Focus-App&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zhanel77/Telegramm-bot-with-ollama">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=Telegramm-bot-with-ollama&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
