@@ -95,6 +95,3 @@
 ---
 ![snake gif](https://raw.githubusercontent.com/Zhanel77/snk/output/github-contribution-grid-snake-ocean.svg)
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=footer" />
-</p>
