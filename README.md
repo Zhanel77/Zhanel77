@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=header&text=Zhanel%20Kuandyk&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=190&section=header&text=Zhanel%20Kuandyk&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7C3AED&size=24&center=true&vCenter=true&width=1000&lines=Frontend+Developer;Student+at+Astana+IT+University;Alem+School+Student;Loves+web+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0891B2&size=24&center=true&vCenter=true&width=1000&lines=Frontend+Developer;Student+at+Astana+IT+University;Alem+School+Student;Loves+web+development)](https://git.io/typing-svg)
 <br/>
 
 ---
