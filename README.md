@@ -80,18 +80,5 @@
 </p>
 
 ---
-
-## 📬 Contact Me
-
-<p align="left">
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://t.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</p>
-
----
 ![snake gif](https://raw.githubusercontent.com/Zhanel77/snk/output/github-contribution-grid-snake-ocean.svg)
 ---
