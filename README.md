@@ -42,8 +42,9 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhanel77&area=true&hide_border=true&bg_color=ffffff&line=14B8A6&point=4F46E5&color=4F46E5&custom_title=Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhanel77&area=true&hide_border=true&bg_color=ffffff&line=1D4ED8&point=4F46E5&color=4F46E5&custom_title=Contribution%20Graph" />
 </p>
+
 
 ---
 
