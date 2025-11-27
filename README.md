@@ -98,9 +98,7 @@ My collection of small frontend practice projects.
 
 ---
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
 ---
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=120&section=footer" />
 </p>
