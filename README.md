@@ -51,28 +51,28 @@
 
 <p align="center">
   <a href="https://github.com/Zhanel77/landing-m1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m1&theme=gruvbox-light&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m1&theme=ayu-mirage&hide_border=true" />
   </a>
   <a href="https://github.com/Zhanel77/landing-m2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m2&theme=gruvbox-light&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m2&theme=ayu-mirage&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Zhanel77/landing-m3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m3&theme=gruvbox-light&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m3&theme=ayu-mirage&hide_border=true" />
   </a>
   <a href="https://github.com/Zhanel77/piano-player">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=piano-player&theme=gruvbox-light&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=piano-player&theme=ayu-mirage&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Zhanel77/task-planner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=task-planner&theme=gruvbox-light&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=task-planner&theme=ayu-mirage&hide_border=true" />
   </a>
   <a href="https://github.com/Zhanel77/AR-Focus-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=AR-Focus-App&theme=gruvbox-light&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=AR-Focus-App&theme=ayu-mirage&hide_border=true" />
   </a>
 </p>
 
