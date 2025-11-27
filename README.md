@@ -54,37 +54,33 @@
 
 ## ⭐ Featured Projects
 
-<table>
-<tr>
-<td>
+<p align="center">
+  <a href="https://github.com/Zhanel77/landing-m1">
+    <img src="https://img.shields.io/badge/landing-m1-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Zhanel77/landing-m2">
+    <img src="https://img.shields.io/badge/landing-m2-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Zhanel77/landing-m3">
+    <img src="https://img.shields.io/badge/landing-m3-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
-### 🔥 [landing-m1](https://github.com/Zhanel77/landing-m1)  
-Adaptive landing page.
+<p align="center">
+  <a href="https://github.com/Zhanel77/piano-player">
+    <img src="https://img.shields.io/badge/piano-player-9333EA?style=for-the-badge&logo=music&logoColor=white" />
+  </a>
+  <a href="https://github.com/Zhanel77/task-planner">
+    <img src="https://img.shields.io/badge/task-planner-A855F7?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="https://github.com/Zhanel77/AR-Focus-App">
+    <img src="https://img.shields.io/badge/AR-Focus-App-C026D3?style=for-the-badge&logo=augmented-reality&logoColor=white" />
+  </a>
+  <a href="https://github.com/Zhanel77/Telegramm-bot-with-ollama">
+    <img src="https://img.shields.io/badge/telegram-ollama-6D28D9?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</p>
 
-### 🔥 [landing-m2](https://github.com/Zhanel77/landing-m2)  
-Smooth modern layout.
-
-### 🔥 [landing-m3](https://github.com/Zhanel77/landing-m3)  
-Multi-section landing.
-
-</td>
-<td>
-
-### 🎹 [piano-player](https://github.com/Zhanel77/piano-player)  
-Interactive piano app.
-
-### 📋 [task-planner](https://github.com/Zhanel77/task-planner)  
-Full-featured task manager.
-
-### 📱 [AR-Focus-App](https://github.com/Zhanel77/AR-Focus-App)  
-AR focus timer.
-
-### 🤖 [Telegram-bot-ollama](https://github.com/Zhanel77/Telegramm-bot-with-ollama)  
-AI Telegram bot.
-
-</td>
-</tr>
-</table>
 
 ---
 
