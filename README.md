@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=30&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Zhanel+Kuandyk;Frontend+Developer+from+Astana;Welcome+to+my+GitHub+profile!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=160&section=header&text=Hello%2C%20I'm%20Zhanel&fontSize=40&fontColor=ffffff&animation=none" />
 </p>
+
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0891B2&size=24&center=true&vCenter=true&width=1000&lines=Frontend+Developer;Student+at+Astana+IT+University;Alem+School+Student;Loves+web+development)](https://git.io/typing-svg)
