@@ -1,121 +1,147 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=160&section=header&text=Hello%2C%20I'm%20Zhanel💻💅&fontSize=40&fontColor=ffffff&animation=none" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=170&section=header&text=Hello%2C%20I'm%20Zhanel!&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Hello, I'm Zhanel" />
 </p>
 
-# 👋 About Me  
+<h3 align="center">
+  Computer Science Graduate | Frontend Development | QA | Data Analytics
+</h3>
 
-I'm **Zhanel Kuandyk**, a passionate **Frontend Developer** from Astana.  
-Currently studying at **Astana IT University** and **Alem School**.  
-I love creating clean interfaces, responsive layouts, and smooth user experiences.
-
----
-
-## 🎯 Current Focus  
-- Mastering React / TypeScript  
-- Improving UI/UX design skills  
-- Building real-world frontend projects  
-- Growing as a modern web developer  
+<p align="center">
+  📍 Astana, Kazakhstan &nbsp;•&nbsp;
+  🎓 Astana IT University &nbsp;•&nbsp;
+  💼 Open to Junior IT Opportunities
+</p>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0891B2&size=36&center=true&vCenter=true&width=1000&lines=Frontend+Developer;Student+at+Astana+IT+University;Alem+School+Student;Loves+web+development)](https://git.io/typing-svg)
-<br/>
+## 👩‍💻 About Me
+
+Hi! I'm **Zhanel Kuandyk**, a Computer Science graduate from **Astana IT University** and **Alem School**.
+
+I have 3 months of hands-on frontend development experience at **PetroSkillsPro**, where I worked with React, Next.js, REST APIs, and backend integration.
+
+My technical interests include:
+- 💻 Developing responsive web applications
+- 🧪 Software testing and quality assurance
+- 📊 Data analytics and database technologies
+- 🚀 Learning new technologies through practical projects
+
+I'm looking for opportunities to contribute to real-world IT projects and grow as a software professional.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,golang,github,figma" />
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,go" alt="Programming languages" />
 </p>
+
+**Frontend Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend technologies" />
+</p>
+
+**Testing & Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,postman,git,github,gitlab" alt="Testing and development tools" />
+</p>
+
+**Data & Analytics**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,anaconda,docker" alt="Data tools" />
+</p>
+
+SQL • pandas • NumPy • Apache Superset • scikit-learn
+
+---
+
+## 🚀 Featured Projects
+
+### 🖥️ IIoT Monitoring Platform
+
+**React • JavaScript • REST API**
+
+Web application for monitoring industrial IoT devices, integrating backend services, and visualizing data.
+
+[🔗 View Repository](https://github.com/Zhanel77/iiot_monitoring_platform)
+
+### 📊 NovaCommerce Analytics
+
+**PostgreSQL • SQL • Python • Apache Superset**
+
+Educational data analytics project focused on SQL queries, data processing, and interactive dashboards.
+
+[🔗 View Repository](https://github.com/Zhanel77/NovaCommerce-Analytics)
+
+### ✅ Task Planner
+
+**JavaScript • HTML • CSS • LocalStorage**
+
+Responsive task management application with CRUD operations, drag-and-drop functionality, filtering, sorting, and local data storage.
+
+[🔗 View Repository](https://github.com/Zhanel77/task-planner)
+
+### 🤖 Telegram Bot with Ollama
+
+**Python • Ollama • LLM**
+
+AI-powered Telegram bot project demonstrating local language-model integration and conversational functionality.
+
+[🔗 View Repository](https://github.com/Zhanel77/Telegramm-bot-with-ollama)
 
 ---
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-### 📦 GitHub Stats
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zhanel77&theme=tokyonight&hide_border=true" />
-
-</td>
-<td>
-
-### 📘 Most Used Languages
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zhanel77&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zhanel77&area=true&hide_border=true&bg_color=ffffff&line=1D4ED8&point=4F46E5&color=4F46E5&custom_title=Contribution%20Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zhanel77&theme=tokyonight" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zhanel77&theme=tokyonight" alt="Languages by repository" />
 </p>
 
 ---
 
-## ⭐ Featured Projects
+## 🎓 Education
+
+**Astana IT University**  
+Bachelor of Computer Science | 2023–2026
+
+**Alem School**  
+Frontend Development | 2024–2025
+
+---
+
+## 🌍 Languages
+
+- Kazakh — Fluent
+- Russian — Fluent
+- English — B2 (Upper-Intermediate)
+
+---
+
+## 📬 Let's Connect!
 
 <p align="center">
-  <a href="https://github.com/Zhanel77/landing-m1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m1&theme=ayu-mirage&hide_border=true" />
+  <a href="mailto:Zhanel0707K@gmail.com">
+    <img src="https://img.shields.io/badge/Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Zhanel77/landing-m2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m2&theme=ayu-mirage&hide_border=true" />
+  <a href="https://www.linkedin.com/in/zhanel-kuandyk-316443361">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/zhanelka7">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Zhanel77/landing-m3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=landing-m3&theme=ayu-mirage&hide_border=true" />
-  </a>
-  <a href="https://github.com/Zhanel77/piano-player">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=piano-player&theme=ayu-mirage&hide_border=true" />
-  </a>
+  💙 Always learning, building, and improving.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Zhanel77/task-planner">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=task-planner&theme=ayu-mirage&hide_border=true" />
-  </a>
-  <a href="https://github.com/Zhanel77/AR-Focus-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=AR-Focus-App&theme=ayu-mirage&hide_border=true" />
-  </a>
+  <img src="https://raw.githubusercontent.com/Zhanel77/snk/output/github-contribution-grid-snake-ocean.svg" alt="GitHub contribution snake" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/Zhanel77/Telegramm-bot-with-ollama">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Zhanel77&repo=Telegramm-bot-with-ollama&theme=ayu-mirage&hide_border=true" />
-  </a>
-</p>
-
----
-
-## 🤝 Collaboration / Interests  
-- UI/UX-centered frontend development  
-- React / TypeScript projects  
-- Landing pages & web animations  
-- Team-based or open-source collaboration  
-
----
-
-## 📬 Contact Me  
-- 📧 Email: **Zhanel0707K@gmail.com**  
-- 📱 Telegram: **@zhanelka7**  
-- 🔗 LinkedIn: *link*  
-
----
-
-![snake gif](https://raw.githubusercontent.com/Zhanel77/snk/output/github-contribution-grid-snake-ocean.svg)
-
----
